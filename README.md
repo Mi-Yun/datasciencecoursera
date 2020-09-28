@@ -1,3 +1,3 @@
 # datasciencecoursera
 
-#This is a prcatice file for coursera
+#This is a practice file for coursera
